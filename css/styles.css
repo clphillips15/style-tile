@@ -4,12 +4,37 @@
 
 /* Color Palette */
 
+.color-1 {
+background-color: blue;
+}
 
+.color-2 {
+background-color: blue;
+}
+
+.color-3 {
+background-color: green;
+}
+   
+}
 /* Textures or Patterns*/
 
+.pattern-1 {
+background: url(../img/confectionary.png);
+}
 
+.patern-2 {
+
+}
+
+.pattern-3{
+
+}
 /* Imagery */
 
+.imagery-1 {
+: url(../img/ski.jpg);
+}
 
 /* Icons */
 
