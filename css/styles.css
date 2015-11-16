@@ -5,35 +5,43 @@
 /* Color Palette */
 
 .color-1 {
-background-color: blue;
+background-color: rgb(35, 33, 38);
 }
 
 .color-2 {
-background-color: blue;
+background-color:rgb(218, 169, 83);
 }
 
 .color-3 {
-background-color: green;
+background-color: rgb(223, 213, 197);
 }
    
 }
 /* Textures or Patterns*/
 
-.pattern-1 {
-background: url(../img/confectionary.png);
+.pattern-1{
+background:url(../img/confectionary.png);
 }
 
-.patern-2 {
-
+.pattern-2{
+background: url(../img/footer_lodyas.png);
 }
 
 .pattern-3{
-
+background: url(../img/noisy_grid.png);
 }
 /* Imagery */
 
-.imagery-1 {
-: url(../img/ski.jpg);
+.imagery-1{
+ image: url(../img/wall.jpg);
+}
+
+.imagery-2{
+image: url(../img/dandelion.jpg)
+}
+
+.imagery-3{
+image: url(../img/light.jpg)
 }
 
 /* Icons */
@@ -41,7 +49,19 @@ background: url(../img/confectionary.png);
 
 /* Typography */
 
+.primary, .primary1{
+font-family:'Raleway', sans-serif;
+    color:rgb(218, 169, 83);
+}
 
+.secondary, .secondary1{
+    font-family:'Raleway', sans-serif;
+    color:rgb(35, 33, 38);
+}
+
+.paragraphs, .paragraphs1 {
+font-family: 'Source Sans Pro', sans-serif;
+}
 /* Forms */
 
 
