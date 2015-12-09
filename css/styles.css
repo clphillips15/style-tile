@@ -5,22 +5,22 @@
 /* Color Palette */
 
 .color-1 {
-background-color: rgb(35, 33, 38);
+background-color: #000;
 }
 
 .color-2 {
-background-color:rgb(218, 169, 83);
+background-color:rgb(167,165,163);
 }
 
 .color-3 {
-background-color: rgb(223, 213, 197);
+background-color: rgb(100, 215, 217);
 }
    
 }
 /* Textures or Patterns*/
 
 .pattern-1{
-background:url(../img/confectionary.png);
+background:;
 }
 
 .pattern-2{
@@ -28,20 +28,20 @@ background: url(../img/footer_lodyas.png);
 }
 
 .pattern-3{
-background: url(../img/noisy_grid.png);
+background: url(../img/confectionary.png);
 }
 /* Imagery */
 
 .imagery-1{
- image: url(../img/wall.jpg);
+ image: url(../img/waterdrop.jpg);
 }
 
 .imagery-2{
-image: url(../img/dandelion.jpg)
+image: url(../img/watercolor.jpeg);
 }
 
 .imagery-3{
-image: url(../img/light.jpg)
+image: url(../img/sharpie.jpg);
 }
 
 /* Icons */
@@ -50,17 +50,19 @@ image: url(../img/light.jpg)
 /* Typography */
 
 .primary, .primary1{
-font-family:'Raleway', sans-serif;
-    color:rgb(218, 169, 83);
+font-family:'Cookie', cursive;
+ 
+    color:#000;
+    font-size: 2.5em;
 }
 
 .secondary, .secondary1{
     font-family:'Raleway', sans-serif;
-    color:rgb(35, 33, 38);
+    color:#000;
 }
 
-.paragraphs, .paragraphs1 {
-font-family: 'Source Sans Pro', sans-serif;
+.paragraphs, .paragraph1, p {
+font-family:'Raleway', sans-serif;
 }
 /* Forms */
 
